@@ -6,9 +6,6 @@ Most scanning issues are caused by simple problems like connection errors, outda
 Here’s a clear, step-by-step guide to diagnose and fix the issue quickly. **[+1-801-878-6858 USA]**
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     **[+1-801-878-6858 USA]**
-<a href="https://jivo.chat/KlZSRejpBm">Click Here: Get the Live Canon Printer Support <img src="docs/source/instant Live Chat.jpg" alt="Click Here For Live Chat"/></a>
-
-
 
 Common Reasons Why Canon Printer Won’t Scan
 --------------------------------------------
