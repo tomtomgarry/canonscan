@@ -15,19 +15,19 @@ Common Reasons Why Canon Printer Won’t Scan
 - **Wi-Fi or USB connection issues**:  
   A weak, unstable, or disconnected network/USB connection prevents the printer from communicating with your device.
 
-- **Outdated or missing printer/scanner drivers**  
+- **Outdated or missing printer/scanner drivers**:  
   Without the latest drivers, your computer may fail to recognize or work with the scanner.
 
-- **Scan utility not installed or configured properly**  
+- **Scan utility not installed or configured properly**:  
   The Canon IJ Scan Utility or related software might be missing or incorrectly set up.
 
-- **Firewall or antivirus blocking scanner access**  
+- **Firewall or antivirus blocking scanner access**:  
   Security software can sometimes block scanning operations, mistaking them for unauthorized access.
 
-- **Wrong scan settings selected**  
+- **Wrong scan settings selected**:  
   Incorrect settings in the scan utility or system preferences can stop scans from completing.
 
-- **Printer or computer glitches requiring a restart**  
+- **Printer or computer glitches requiring a restart**:  
   Temporary system bugs or software conflicts may need a simple restart to resolve.
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     
