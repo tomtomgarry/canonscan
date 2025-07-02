@@ -12,7 +12,7 @@ Here’s a clear, step-by-step guide to diagnose and fix the issue quickly. **[+
 Common Reasons Why Canon Printer Won’t Scan
 --------------------------------------------
 
-- **Wi-Fi or USB connection issues**  
+- **Wi-Fi or USB connection issues**:  
   A weak, unstable, or disconnected network/USB connection prevents the printer from communicating with your device.
 
 - **Outdated or missing printer/scanner drivers**  
