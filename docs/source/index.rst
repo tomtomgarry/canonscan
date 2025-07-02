@@ -3,7 +3,7 @@ Step-by-Step Guide: Canon Printer Won’t Scan How to Fix It
 
 A Canon printer refusing to scan can be frustrating, whether you’re trying to digitize documents or photos.
 Most scanning issues are caused by simple problems like connection errors, outdated drivers, or software conflicts.
-Here’s a clear, step-by-step guide to diagnose and fix the issue quickly. **[+1-801-878-6858 USA]**
+Here’s a clear, step-by-step guide to diagnose and fix the issue quickly. **[Dial +1-801-878-6858 USA]**
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     
 
