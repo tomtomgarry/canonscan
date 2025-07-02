@@ -8,7 +8,7 @@ Here’s a clear, step-by-step guide to diagnose and fix the issue quickly. **[+
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     **[+1-801-878-6858 USA]**
 
 
-    <button style="background-color:#d62828; color:#fff; padding:10px 20px; border:none; border-radius:5px; font-size:16px; cursor:pointer;" onclick="window.location.href='https://jivo.chat/KlZSRejpBm';">Click Here: Get the Live Canon Printer Support</button>
+
 
 Common Reasons Why Canon Printer Won’t Scan
 --------------------------------------------
