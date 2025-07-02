@@ -1,4 +1,4 @@
-Step-by-Step Guide: Why is Canon Printer Won’t Scan — How to Fix It
+Step-by-Step Guide: Canon Printer Won’t Scan How to Fix It
 ===================================================================
 
 A Canon printer refusing to scan can be frustrating, whether you’re trying to digitize documents or photos.
