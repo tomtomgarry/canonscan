@@ -31,7 +31,7 @@ Common Reasons Why Canon Printer Won’t Scan
   Temporary system bugs or software conflicts may need a simple restart to resolve.
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     
-**[+1-801-878-6858 USA]**
+
 
 Step-by-Step Fixing Guide: Canon Printer Won't Scan
 ---------------------------------------------------
